@@ -12,7 +12,7 @@ I am optimistic, confident, and believe in learning and not giving up easily. Pa
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aayush-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reshank-kumar-9135b2195/)  [![Mail Badge](https://img.shields.io/badge/-aayush-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:reshankumar121@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Reshank-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reshank-kumar-9135b2195/)  [![Mail Badge](https://img.shields.io/badge/-Reshank-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:reshankumar121@gmail.com)
 
 
 
